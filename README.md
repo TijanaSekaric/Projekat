@@ -1,5 +1,6 @@
 # Projekat
 DETEKCIJA LICA
+
 Prvi korak nam se odnosi na ucitavanje OpenCV biblioteka i ucitavanje zadate slike. 
  (OpenCV koristi algoritme za ucenja za pretrazivanja lica u okviru slike)
  
